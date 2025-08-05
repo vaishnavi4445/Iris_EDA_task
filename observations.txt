@@ -1,0 +1,6 @@
+Key Observations:
+1. Setosa species has distinctly smaller petal dimensions compared to others.
+2. Petal length and width show strong positive correlation (0.96).
+3. Virginica has the largest sepal length on average but similar sepal width to versicolor.
+4. No missing values found in the dataset.
+5. All features show good separation between species except sepal width which has some overlap
